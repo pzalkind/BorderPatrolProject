@@ -1,0 +1,9 @@
+## List of open source game URLs we wplan to use as templates for future devs
+
+# Alchemic Archer
+https://cmlsc.itch.io/alchemic-archer
+# thx to DaFluffyPotato
+
+# Brian
+http://pybrian.sourceforge.net/
+# thx to ?
